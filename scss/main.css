@@ -1,0 +1,46 @@
+body {
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-family: 'PT Sans Narrow', sans-serif; }
+
+div.orangehome {
+  background-color: #F45013;
+  height: 200px;
+  width: 100%;
+  text-align: center;
+  background-position: center bottom;
+  bottom: 50px;
+  margin: 0px; }
+
+img.header {
+  position: absolute;
+  left: 300px;
+  top: 125px;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid; }
+
+p {
+  padding-left: 50px; }
+
+img.home {
+  padding-top: 50px;
+  float: left; }
+
+nav {
+  padding-top: 50px;
+  float: left; }
+  nav ul {
+    list-style: none; }
+
+footer {
+  clear: both; }
+
+/*# sourceMappingURL=main.css.map */
