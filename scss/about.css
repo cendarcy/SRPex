@@ -23,6 +23,21 @@ div.orange {
   vertical-align: bottom;
   background-position: bottom; }
 
+img {
+  width: 450px;
+  height: 63px;
+  margin-left: 250px;
+  margin-right: 250px;
+  vertical-align: baseline;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid; }
+
 div.gray {
   background-color: #6D6E69;
   color: #FFFFFF;
@@ -148,4 +163,4 @@ p.footer {
 .prodareas {
   margin-left: 20px; }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=about.css.map */
