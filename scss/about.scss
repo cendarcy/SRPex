@@ -1,12 +1,14 @@
-/* CSS Document */
-
-.body {
+html {
+	margin: 0px;
+}
+body {
 	background-color: #FFFFFF;
 	color: #666666;
 	background-position: left top;
 	margin: 0px auto auto 0px;
-	padding: 0;
+	padding: 0px;
 	}
+
 div.orangehome {
 	background-color: #F45013;
 	height: 200px;
@@ -26,9 +28,10 @@ div.orange {
 	background-position: bottom;
 	}
 
-img {	
+img.header {	
     width: 450px;
     height: 63px;
+    margin-top: 20px;
     margin-left: 250px;
     margin-right: 250px;
     vertical-align: baseline;
@@ -147,12 +150,12 @@ dt.header {
 	font-size: 10pt;
 	margin-bottom: 12px;
 	}
-img.header {
+/*img.header {
 	position: absolute;
 	left: 300px;
 	top: 125px;
 	}
-
+*/
 .danceimage {
 	float: right;
 	width: 150px;
