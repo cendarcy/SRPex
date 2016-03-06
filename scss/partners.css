@@ -1,9 +1,12 @@
+html {
+  margin: 0px; }
+
 body {
   background-color: #FFFFFF;
   color: #666666;
   background-position: left top;
   margin: 0px auto auto 0px;
-  padding: 0; }
+  padding: 0px; }
 
 div.orangehome {
   background-color: #F45013;
@@ -21,6 +24,22 @@ div.orange {
   height: 107px;
   vertical-align: bottom;
   background-position: bottom; }
+
+img.header {
+  width: 450px;
+  height: 63px;
+  margin-top: 20px;
+  margin-left: 250px;
+  margin-right: 250px;
+  vertical-align: baseline;
+  border-top-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid; }
 
 div.gray {
   background-color: #6D6E69;
@@ -121,11 +140,12 @@ dt.header {
   font-size: 10pt;
   margin-bottom: 12px; }
 
-img.header {
+/*img.header {
   position: absolute;
   left: 300px;
-  top: 125px; }
-
+  top: 125px;
+  }
+*/
 .danceimage {
   float: right;
   width: 150px;
@@ -147,4 +167,4 @@ p.footer {
 .prodareas {
   margin-left: 20px; }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=partners.css.map */
